@@ -11,4 +11,6 @@ I built it with PyInstaller to run as a single file in windowed mode.
 
 Usage:
 Write visitor name and phone number, confirm with yes and the record will be appended to the .csv file.
-CLose or click exit to terminate
+Close window or click exit to terminate
+
+Each line is made up by time of record, name of the pc (in order to identify the office) and the data entered by user.
