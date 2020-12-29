@@ -1,16 +1,12 @@
 import datetime
-#from pathlib import Path
 
 #Percorso file registro
-
-#folder = Path("z:\Scambio\")
 
 registro = 'Z:\\Scambio\\registro.csv'
 
 #Imposta l'ufficio
 import socket
 ufficio=socket.gethostname()
-#ufficio=input('Nome ufficio: ')
 
 #Inizia il loop di inserimento
 while True:
