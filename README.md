@@ -10,7 +10,7 @@ This version is designed to work on Windows systems, with the record file stored
 I run this script directly from cmd.
 
 Usage:
-Write visitor name and phone number sonfirming each one by pressing enter.
+Write visitor name and phone number confirming each one by pressing enter.
 The record is appended to the .csv file.
 Close terminal or press ctrl+c to exit.
 
